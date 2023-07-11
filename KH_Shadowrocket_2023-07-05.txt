@@ -1,4 +1,4 @@
-# KH Shadowrocket: 2023-07-05 15:55:49
+# KH Shadowrocket: 2023-07-05 15:55:49 (Measmony Suon)
 [General]
 private-ip-answer = false
 bypass-system = true
