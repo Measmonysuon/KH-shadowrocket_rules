@@ -5,3 +5,4 @@ DOMAIN,chat-e2ee-mini.facebook.com
 DOMAIN,web.facebook.com
 DOMAIN,edge-mqtt.facebook.com
 DOMAIN,rupload.facebook.com
+DOMAIN,scontent.frak3-1.fna.fbcdn.net
