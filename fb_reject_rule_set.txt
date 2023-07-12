@@ -4,3 +4,4 @@ DOMAIN,www.facebook.com
 DOMAIN,chat-e2ee-mini.facebook.com
 DOMAIN,web.facebook.com
 DOMAIN,edge-mqtt.facebook.com
+DOMAIN,rupload.facebook.com
