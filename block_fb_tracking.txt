@@ -1,0 +1,6 @@
+# Block FB Tracking
+IP-CIDR,31.13.67.33/32,REJECT,no-resolve
+DOMAIN,www.facebook.com,REJECT
+DOMAIN,chat-e2ee-mini.facebook.com,REJECT
+DOMAIN,web.facebook.com,REJECT
+DOMAIN,edge-mqtt.facebook.com,REJECT
