@@ -1,6 +1,7 @@
 # KH-shadowrocket_rules
 
 Routing Local KH - https://raw.githubusercontent.com/Measmonysuon/KH-shadowrocket_rules/main/KH_Shadowrocket_2023-07-05.txt
+Block FB Tracking - https://raw.githubusercontent.com/Measmonysuon/KH-shadowrocket_rules/main/block_fb_tracking.txt
 
 Routing local with shadowrocket
 Rule based proxy utility client for iPhone/iPad.
