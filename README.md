@@ -1,14 +1,15 @@
-## KH-shadowrocket_rules
+# KH Shadowrocket Rules 
 Routing local kh_KH with shadowrocket
+Providing rule set and configuration file
 
-# Routing Local KH - Oversall config
+## Routing Local KH - Oversall config
 https://raw.githubusercontent.com/Measmonysuon/KH-shadowrocket_rules/main/KH_Shadowrocket_2023-07-05.txt
-# Block FB Tracking - Rule-set
+## Block FB Tracking - Rule-set
 https://raw.githubusercontent.com/Measmonysuon/KH-shadowrocket_rules/main/fb_reject_rule_set.txt
-# Direct Local KH - Rule-set
+## Direct Local KH - Rule-set
 https://raw.githubusercontent.com/Measmonysuon/KH-shadowrocket_rules/main/shadowrocket_direct_rule_KH.txt
 
-#Rule based proxy utility client for iPhone/iPad.
+##Rule based proxy utility client for iPhone/iPad.
 - Capture all HTTP/HTTPS/TCP traffic from any applications on your device, and redirect to the proxy server.
 - Record and display HTTP, HTTPS, DNS requests from your iOS devices.
 - Configure rules using domain match, domain suffix, domain keyword, CIDR IP range, and/or GeoIP lookup.
