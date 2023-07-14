@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/Measmonysuon/KH-shadowrocket_rules/main/fb_rej
 ## Direct Local KH - Rule-set
 https://raw.githubusercontent.com/Measmonysuon/KH-shadowrocket_rules/main/shadowrocket_direct_rule_KH.txt
 
-##Rule based proxy utility client for iPhone/iPad.
+## Rule based proxy utility client for iPhone/iPad.
 - Capture all HTTP/HTTPS/TCP traffic from any applications on your device, and redirect to the proxy server.
 - Record and display HTTP, HTTPS, DNS requests from your iOS devices.
 - Configure rules using domain match, domain suffix, domain keyword, CIDR IP range, and/or GeoIP lookup.
