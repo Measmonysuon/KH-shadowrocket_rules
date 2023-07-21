@@ -9,3 +9,4 @@ DOMAIN,scontent.frak3-1.fna.fbcdn.net
 DOMAIN,whatsapp-chatd-msgr-mini-edge-shv-01-mia3.facebook.com
 DOMAIN,fbsbx.com
 DOMAIN,fb.me
+DOMAIN,6234a3bf-d6ae-4b39-bfc5-1042923a1a1b-netseer-ipaddr-assoc.xy.fbcdn.net
