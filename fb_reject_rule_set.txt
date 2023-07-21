@@ -8,3 +8,4 @@ DOMAIN,rupload.facebook.com
 DOMAIN,scontent.frak3-1.fna.fbcdn.net
 DOMAIN,whatsapp-chatd-msgr-mini-edge-shv-01-mia3.facebook.com
 DOMAIN,fbsbx.com
+DOMAIN,fb.me
