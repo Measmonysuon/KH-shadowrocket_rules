@@ -1,7 +1,6 @@
 # Block FB Tracking
 IP-CIDR,31.13.67.33/32
 DOMAIN,www.facebook.com
-DOMAIN,chat-e2ee-mini.facebook.com
 DOMAIN,web.facebook.com
 DOMAIN,edge-mqtt.facebook.com
 DOMAIN,rupload.facebook.com
