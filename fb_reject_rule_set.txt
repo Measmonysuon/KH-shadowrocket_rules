@@ -2,22 +2,11 @@
 IP-CIDR,31.13.67.33/32
 DOMAIN,www.facebook.com
 DOMAIN,web.facebook.com
-DOMAIN,edge-mqtt.facebook.com
-DOMAIN,rupload.facebook.com
 DOMAIN,scontent.frak3-1.fna.fbcdn.net
 DOMAIN,whatsapp-chatd-msgr-mini-edge-shv-01-mia3.facebook.com
 DOMAIN,fbsbx.com
 DOMAIN,cdn.fbsbx.com
 DOMAIN,fb.me
 DOMAIN,6234a3bf-d6ae-4b39-bfc5-1042923a1a1b-netseer-ipaddr-assoc.xy.fbcdn.net
-DOMAIN,scontent-iad3-2.xx.fbcdn.net
-DOMAIN,scontent-iad3-1.xx.fbcdn.net
-DOMAIN,scontent-atl3-1.xx.fbcdn.net
-DOMAIN,scontent-atl3-2.xx.fbcdn.net
-DOMAIN,graph.facebook.com
-DOMAIN,b-graph.facebook.com
-DOMAIN,b-api.facebook.com
-DOMAIN,api.facebook.com
-DOMAIN,chat-e2ee-mini.facebook.com
 
 
