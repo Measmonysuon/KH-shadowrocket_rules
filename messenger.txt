@@ -7,3 +7,5 @@ DOMAIN,scontent-atl3-2.xx.fbcdn.net
 DOMAIN,chat-e2ee-mini.facebook.com
 DOMAIN,fb.me
 DOMAIN,scontent.frak3-1.fna.fbcdn.net
+DOMAIN,fbsbx.com
+DOMAIN,cdn.fbsbx.com
