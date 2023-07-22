@@ -1,5 +1,4 @@
 # Block FB Tracking
-IP-CIDR,31.13.67.33/32
 DOMAIN,www.facebook.com
 DOMAIN,web.facebook.com
 DOMAIN,whatsapp-chatd-msgr-mini-edge-shv-01-mia3.facebook.com
@@ -19,3 +18,6 @@ DOMAIN,scontent-ams2-2.xx.fbcdn.net
 DOMAIN,scontent-ams4-2.xx.fbcdn.net
 DOMAIN,scontent-ams3-1.xx.fbcdn.net
 DOMAIN,scontent-ams3-2.xx.fbcdn.net
+DOMAIN,scontent.frak3-1.fna.fbcdn.net
+DOMAIN,fbsbx.com
+DOMAIN,cdn.fbsbx.com
