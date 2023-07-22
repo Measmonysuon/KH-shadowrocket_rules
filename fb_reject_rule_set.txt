@@ -8,5 +8,14 @@ DOMAIN,graph.facebook.com
 DOMAIN,b-graph.facebook.com
 DOMAIN,b-api.facebook.com
 DOMAIN,api.facebook.com
-
-
+DOMAIN,scontent-iad3-2.xx.fbcdn.net
+DOMAIN,scontent-atl3-1.xx.fbcdn.net
+DOMAIN,scontent-atl3-2.xx.fbcdn.net
+DOMAIN,scontent-gru2-2.xx.fbcdn.net
+DOMAIN,scontent-ams1-1.xx.fbcdn.net
+DOMAIN,scontent-ams1-2.xx.fbcdn.net
+DOMAIN,scontent-ams2-1.xx.fbcdn.net
+DOMAIN,scontent-ams2-2.xx.fbcdn.net
+DOMAIN,scontent-ams4-2.xx.fbcdn.net
+DOMAIN,scontent-ams3-1.xx.fbcdn.net
+DOMAIN,scontent-ams3-2.xx.fbcdn.net
