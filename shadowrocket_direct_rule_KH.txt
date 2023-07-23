@@ -1,5 +1,5 @@
-DOMAIN-SUFFIX,gmail.com,DIRECT
-DOMAIN-SUFFIX,passapptaxis.com,DIRECT
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,passapptaxis.com
 #ML
 DOMAIN-SUFFIX,mobilelegends.com
 IP-CIDR,161.202.206.188/32,no-resolve
