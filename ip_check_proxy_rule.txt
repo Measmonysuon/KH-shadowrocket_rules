@@ -1,3 +1,11 @@
+#Vizio
+DOMAIN-SUFFIX,smartcasttv.com,PROXY
+DOMAIN-SUFFIX,onetrust.com,PROXY
+DOMAIN-SUFFIX,vaicore.site,PROXY
+DOMAIN-SUFFIX,akisinn.info,PROXY
+DOMAIN-SUFFIX,dewrain.site,PROXY
+DOMAIN-SUFFIX,vizio.com,PROXY
+DOMAIN-SUFFIX,braze.com,PROXY
 #IP Checking 
 DOMAIN-SUFFIX,webhostingsecretrevealed.net
 DOMAIN-SUFFIX,whatismyipaddress.com
