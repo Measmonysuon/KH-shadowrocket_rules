@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,saasexch.com
+DOMAIN-SUFFIX,saasexch.comg
 DOMAIN-SUFFIX,passapptaxis.com
 #ML
 DOMAIN-SUFFIX,mobilelegends.com
@@ -37,7 +37,6 @@ DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,applestore.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,bnappzh.com
 IP-CIDR,54.150.172.143/32
 DOMAIN-SUFFIX,binance.im
@@ -52,15 +51,12 @@ IP-CIDR,192.225.159.13/32
 DOMAIN-SUFFIX,reproio.com
 IP-CIDR,27.109.115.49/32
 IP-CIDR,27.109.115.49/32
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
 IP-CIDR,::ffff:240.0.0.26/32
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gift
 IP-CIDR,::ffff:240.0.0.22/32
 DOMAIN-SUFFIX,ocsp.pki.goog
 DOMAIN-SUFFIX,discordapp.page.link
-DOMAIN-SUFFIX,googleads.g.doubleclick.net
 DOMAIN-SUFFIX,ocsp.usertrust.com
 IP-CIDR,::ffff:240.0.0.16/32
 DOMAIN-SUFFIX,liniad.com
@@ -443,7 +439,6 @@ DOMAIN-SUFFIX,zmz2019.com
 DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com
-DOMAIN-SUFFIX,google.cn
 DOMAIN-SUFFIX,manmanbuy.com
 DOMAIN,www-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,aaplimg.com
