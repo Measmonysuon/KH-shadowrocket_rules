@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,saasexch.com
 DOMAIN-SUFFIX,passapptaxis.com
 #ML
 DOMAIN-SUFFIX,mobilelegends.com
@@ -37,10 +37,6 @@ DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,applestore.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,aaplimg.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,bnappzh.com
 IP-CIDR,54.150.172.143/32
