@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,mzstatic.com
