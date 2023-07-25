@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,saasexch.comg
+DOMAIN-SUFFIX,saasexch.com
 DOMAIN-SUFFIX,passapptaxis.com
 #ML
 DOMAIN-SUFFIX,mobilelegends.com
