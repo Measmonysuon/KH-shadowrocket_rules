@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,adjust.world
 DOMAIN-SUFFIX,bytegsdk.com
 DOMAIN-SUFFIX,youngjoygame.com
 #Spotify
+DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,scdn.co,
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,aforativemedia.com
