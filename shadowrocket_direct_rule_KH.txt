@@ -1,4 +1,18 @@
-DOMAIN-SUFFIX,saasexch.comg
+#WeChat
+IP-CIDR,101.32.171.32/32,no-resolve
+IP-CIDR,101.32.171.227/32,no-resolve
+IP-CIDR,101.32.104.4/32,no-resolve
+IP-CIDR,43.156.222.58/32,no-resolve
+IP-CIDR,43.156.222.103/32,no-resolve
+IP-CIDR,43.156.222.200/32,no-resolve
+IP-CIDR,162.62.163.70/32,no-resolve
+IP-CIDR,162.62.163.83/32,no-resolve
+DOMAIN-SUFFIX,safebrowsing.apple
+DOMAIN-SUFFIX,githubassets.com
+#numbero
+DOMAIN-SUFFIX,numeroesimapp.com
+#Bianace
+DOMAIN-SUFFIX,saasexch.com
 DOMAIN-SUFFIX,passapptaxis.com
 #ML
 DOMAIN-SUFFIX,mobilelegends.com
@@ -14,6 +28,7 @@ DOMAIN-SUFFIX,adjust.world
 DOMAIN-SUFFIX,bytegsdk.com
 DOMAIN-SUFFIX,youngjoygame.com
 #Spotify
+DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,scdn.co,
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,aforativemedia.com
@@ -101,9 +116,7 @@ IP-CIDR,185.76.151.0/24
 IP-CIDR,74.125.200.109/32
 IP-CIDR,5.28.194.123/32
 DOMAIN-KEYWORD,telegram
-DOMAIN-KEYWORD,whatsapp,PROXY
-DOMAIN-KEYWORD,xvideos,IPV4 US
-DOMAIN-SUFFIX,ipapi.com,PROXY
+DOMAIN-KEYWORD,whatsapp
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
 DOMAIN-SUFFIX,bdstatic.com
@@ -413,7 +426,6 @@ DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-SUFFIX,weico.cc
 DOMAIN-SUFFIX,weidian.com
 DOMAIN-SUFFIX,westlaw.com
-DOMAIN-SUFFIX,whatismyip.com,PROXY
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windowsupdate.com
