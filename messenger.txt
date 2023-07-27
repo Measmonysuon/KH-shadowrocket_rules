@@ -1,7 +1,4 @@
 IP-CIDR,31.13.67.33/32
-DOMAIN,edge-mqtt.facebook.com
-#DOMAIN,rupload.facebook.com
-#DOMAIN,chat-e2ee-mini.facebook.com
 DOMAIN,fb.me
 DOMAIN,messenger.com
 DOMAIN,msngr.com
