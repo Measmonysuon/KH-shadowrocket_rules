@@ -31,6 +31,3 @@ DOMAIN-SUFFIX,iplocation.io
 DOMAIN-SUFFIX,whatismyip.com
 DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,iphey.com
-#FB Chat
-DOMAIN,rupload.facebook.com
-DOMAIN,chat-e2ee-mini.facebook.com
