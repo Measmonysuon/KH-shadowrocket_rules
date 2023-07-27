@@ -14,6 +14,7 @@ IP-CIDR,43.134.58.48/32,no-resolve
 IP-CIDR,43.156.222.46/32,no-resolve
 IP-CIDR,43.156.222.48/32,no-resolve
 IP-CIDR,43.156.222.58/32,no-resolve
+IP-CIDR,43.156.222.154/32,no-resolve
 IP-CIDR,43.156.222.103/32,no-resolve
 IP-CIDR,43.156.222.200/32,no-resolve
 IP-CIDR,47.101.151.69/32,no-resolve
