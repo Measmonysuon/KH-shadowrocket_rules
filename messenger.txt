@@ -1,4 +1,3 @@
-IP-CIDR,31.13.67.33/32
 DOMAIN,fb.me
 DOMAIN,messenger.com
 DOMAIN,msngr.com
