@@ -1,3 +1,9 @@
+#WeChat
+IP-CIDR,101.32.171.32/32,no-resolve
+IP-CIDR,101.32.171.227/32,no-resolve
+IP-CIDR,43.156.222.58/32,no-resolve
+IP-CIDR,43.156.222.103/32,no-resolve
+IP-CIDR,43.156.222.200/32,no-resolve
 DOMAIN-SUFFIX,safebrowsing.apple
 DOMAIN-SUFFIX,githubassets.com
 #numbero
