@@ -34,3 +34,4 @@ DOMAIN-SUFFIX,iphey.com
 #FB Chat
 DOMAIN,rupload.facebook.com
 DOMAIN,chat-e2ee-mini.facebook.com
+IP-CIDR,31.13.67.33/32
