@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,githubassets.com
 #numbero
 DOMAIN-SUFFIX,numeroesimapp.com
 #Bianace
