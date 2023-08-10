@@ -619,3 +619,17 @@ IP-CIDR,192.168.0.0/16
 IP-CIDR,10.0.0.0/8
 IP-CIDR,172.16.0.0/12
 IP-CIDR,127.0.0.0/8
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,google.cn
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,googleusercontent.com
