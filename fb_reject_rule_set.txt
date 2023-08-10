@@ -8,6 +8,7 @@ DOMAIN,gateway.facebook.com
 DOMAIN,b-graph.facebook.com
 DOMAIN,b-api.facebook.com
 DOMAIN,api.facebook.com
+DOMAIN,lithium.facebook.com
 DOMAIN,scontent-iad3-2.xx.fbcdn.net
 DOMAIN,scontent-atl3-1.xx.fbcdn.net
 DOMAIN,scontent-atl3-2.xx.fbcdn.net
