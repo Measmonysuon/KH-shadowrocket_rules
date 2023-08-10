@@ -1,3 +1,16 @@
+#Kwai
+IP-CIDR,103.107.217.65/32,no-resolve
+DOMAIN-SUFFIX,kskwai.com
+DOMAIN-SUFFIX,yximgs.com
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,nasa.gov
+DOMAIN-SUFFIX,ntp.org
+DOMAIN-SUFFIX,bcelive.com
+IP-CIDR,120.92.215.64/32,no-resolve
+IP-CIDR,119.29.29.29/32,no-resolve
+DOMAIN-SUFFIX,ksapisrv.com
+DOMAIN-SUFFIX,kwimgs.com
+DOMAIN-SUFFIX,kwaizt.com
 DOMAIN-SUFFIX,networklookout.com
 IP-CIDR,164.52.39.103/32,no-resolve
 IP-CIDR,38.54.5.30/32,no-resolve
