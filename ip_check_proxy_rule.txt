@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,iphey.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
+#Kwai
 DOMAIN-SUFFIX,kskwai.com
 DOMAIN-SUFFIX,yximgs.com
 DOMAIN-SUFFIX,kuaishou.com
