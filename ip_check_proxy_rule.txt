@@ -46,3 +46,10 @@ IP-CIDR,119.29.29.29/32,no-resolve
 DOMAIN-SUFFIX,ksapisrv.com
 DOMAIN-SUFFIX,kwimgs.com
 DOMAIN-SUFFIX,kwaizt.com
+#Tiktok
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokcdn.com
+USER-AGENT,"Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Cronet Mobile/15E148 Safari/604.1"
