@@ -1,3 +1,7 @@
+DOMAIN-SUFFIX,umeng.com
+DOMAIN-SUFFIX,igolocation.com
+DOMAIN-SUFFIX,screenovate.com
+
 #Kwai
 IP-CIDR,103.107.217.65/32,no-resolve
 DOMAIN-SUFFIX,kskwai.com
@@ -16,10 +20,10 @@ IP-CIDR,164.52.39.103/32,no-resolve
 IP-CIDR,38.54.5.30/32,no-resolve
 DOMAIN-SUFFIX,cloudflare-dns.com
 #ML
-IP-CIDR,162.133.97.120/32,DIRECT,no-resolve
-IP-CIDR,38.54.5.35/32,DIRECT,no-resolve
-IP-CIDR,164.52.39.104/32,DIRECT,no-resolve
-IP-CIDR,164.52.91.112/32,DIRECT,no-resolve
+IP-CIDR,162.133.97.120/32T,no-resolve
+IP-CIDR,38.54.5.35/32,no-resolve
+IP-CIDR,164.52.39.104/32,no-resolve
+IP-CIDR,164.52.91.112/32T,no-resolve
 IP-CIDR,38.54.5.32/32,no-resolve
 IP-CIDR,38.54.5.20/32,no-resolve
 IP-CIDR,164.52.106.196/32,no-resolve
