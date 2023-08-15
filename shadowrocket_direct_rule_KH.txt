@@ -20,6 +20,8 @@ IP-CIDR,164.52.39.103/32,no-resolve
 IP-CIDR,38.54.5.30/32,no-resolve
 DOMAIN-SUFFIX,cloudflare-dns.com
 #ML
+IP-CIDR,161.202.241.27/32,no-resolve
+IP-CIDR,38.54.5.31/32,no-resolve
 IP-CIDR,162.133.97.120/32T,no-resolve
 IP-CIDR,38.54.5.35/32,no-resolve
 IP-CIDR,164.52.39.104/32,no-resolve
