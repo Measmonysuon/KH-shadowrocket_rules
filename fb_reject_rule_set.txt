@@ -23,3 +23,4 @@ DOMAIN,scontent-ams3-2.xx.fbcdn.net
 DOMAIN,scontent.frak3-1.fna.fbcdn.net
 DOMAIN,fbsbx.com
 DOMAIN,cdn.fbsbx.com
+DOMAIN-SUFFIX,oculuscdn.com
