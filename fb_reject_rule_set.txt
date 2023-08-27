@@ -25,3 +25,4 @@ DOMAIN,fbsbx.com
 DOMAIN,cdn.fbsbx.com
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,thinhnam.net.in
+DOMAIN-SUFFIX,vina24h.com
