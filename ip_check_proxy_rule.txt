@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokcdn.com
+
 USER-AGENT,"Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Cronet Mobile/15E148 Safari/604.1"
 
 USER-AGENT,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Cronet Mobile/15E148 Safari/604.1" 
@@ -59,3 +60,5 @@ USER-AGENT,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/6
 DOMAIN-SUFFIX,supersonicads.com
 DOMAIN-SUFFIX,pocketfm.in
 DOMAIN-KEYWORD,whatsapp
+DOMAIN-SUFFIX,whatsapp.com
+DOMAIN-SUFFIX,whatsapp.net
