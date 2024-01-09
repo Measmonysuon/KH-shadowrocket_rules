@@ -58,3 +58,4 @@ USER-AGENT,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_2 like Mac OS X) AppleWebKit/6
 
 DOMAIN-SUFFIX,supersonicads.com
 DOMAIN-SUFFIX,pocketfm.in
+DOMAIN-KEYWORD,whatsapp
