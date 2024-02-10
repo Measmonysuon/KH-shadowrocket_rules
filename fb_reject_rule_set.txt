@@ -27,3 +27,5 @@ DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,thinhnam.net.in
 DOMAIN-SUFFIX,vina24h.com
 DOMAIN-SUFFIX,khmerlottery.biz
+# MonyFB Location Tracking 
+DOMAIN,F21BFDEF-2E5C-43E7-8928-F09B9833102C-netseer-ipaddr-assoc.xy.fbcdn.net
