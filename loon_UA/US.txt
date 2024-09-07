@@ -1,3 +1,5 @@
+USER-AGENT,"Barcelona 347.0.1.26.109 (iPhone13,4; iOS 17_6_1; en_US; en-US; scale=3.00; 1284x2778; 637693875) AppleWebKit/420+"
+
 USER-AGENT,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21G93 [FBAN/FBIOS;FBDV/iPhone13,4;FBMD/iPhone;FBSN/iOS;FBSV/17.6.1;FBSS/3;FBID/phone;FBLC/en_Qaau_US;FBOP/5]"
 USER-AGENT,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21G93 [FBAN/FBIOS;FBDV/iPhone13,4;FBMD/iPhone;FBSN/iOS;FBSV/17.6.1;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5]"
 
