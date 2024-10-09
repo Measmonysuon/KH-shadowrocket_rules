@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,dewrain.site
 DOMAIN-SUFFIX,vizio.com
 DOMAIN-SUFFIX,braze.com
 #IP Checking 
+DOMAIN-SUFFIX,googleoptimize.com
 DOMAIN-SUFFIX,dnsleaktest.com
 DOMAIN-SUFFIX,webhostingsecretrevealed.net
 DOMAIN-SUFFIX,whatismyipaddress.com
