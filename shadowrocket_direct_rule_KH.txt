@@ -17,7 +17,10 @@ DOMAIN-SUFFIX,flippingbook.com
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,igolocation.com
 DOMAIN-SUFFIX,screenovate.com
-
+IP-CIDR,91.108.56.180/32
+DOMAIN-SUFFIX,chatgpt.com
+IP-CIDR,172.224.26.136/24
+DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,oaiusercontent.com
 IP-CIDR,165.154.178.35/24
 IP-CIDR,165.154.178.47/32
