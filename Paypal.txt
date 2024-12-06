@@ -6,6 +6,7 @@
 # DOMAIN-SUFFIX: 246
 # USER-AGENT: 1
 # TOTAL: 248
+DOMAIN-SUFFIX,xoom.com
 DOMAIN-SUFFIX,account-paypal.info
 DOMAIN-SUFFIX,account-paypal.net
 DOMAIN-SUFFIX,account-paypal.org
