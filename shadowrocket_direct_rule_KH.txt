@@ -14,6 +14,14 @@ USER-AGENT,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit
 USER-AGENT,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21C66 [FBAN/FBIOS;FBDV/iPhone13,4;FBMD/iPhone;FBSN/iOS;FBSV/17.2.1;FBSS/3;FBID/phone;FBLC/ja_Qaau_JP;FBOP/5]"
 USER-AGENT,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_2_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/21C66 [FBAN/FBIOS;FBDV/iPhone13,4;FBMD/iPhone;FBSN/iOS;FBSV/17.2.1;FBSS/3;FBID/phone;FBLC/ja_JP;FBOP/5]"
 DOMAIN-SUFFIX,flippingbook.com
+
+#Tiktok
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokcdn.com
+
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,igolocation.com
 DOMAIN-SUFFIX,screenovate.com
