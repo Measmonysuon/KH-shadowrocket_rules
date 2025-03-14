@@ -1,3 +1,10 @@
+#Tiktok
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokcdn.com
+
 #Vizio
 DOMAIN-SUFFIX,smartcasttv.com
 DOMAIN-SUFFIX,onetrust.com
