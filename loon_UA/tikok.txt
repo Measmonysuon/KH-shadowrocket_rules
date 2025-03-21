@@ -1,0 +1,17 @@
+#Tiktok
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,ibyteimg.com
+DOMAIN-SUFFIX,ttwstatic.com
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokcdn-eu.com
+DOMAIN-SUFFIX,pipopay.com
+DOMAIN-SUFFIX,bytedapm.com
+DOMAIN-SUFFIX,bytevcloudapi.com
+IP-CIDR,71.18.74.192/32,no-resolve
+IP-CIDR,104.97.85.29/32,no-resolve
+DOMAIN-SUFFIX,tiktokv.us
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokv.com
+
