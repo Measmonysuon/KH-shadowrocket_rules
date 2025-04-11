@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,onesignal.com
 DOMAIN-SUFFIX,appsflyersdk.com
 DOMAIN-SUFFIX,wingbank.com.kh
 DOMAIN-SUFFIX,wingmoney.com
+DOMAIN-SUFFIX,juicyscore.com
 #--
 DOMAIN-SUFFIX,umeng.com
 DOMAIN-SUFFIX,igolocation.com
