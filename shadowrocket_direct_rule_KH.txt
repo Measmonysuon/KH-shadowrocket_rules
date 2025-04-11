@@ -119,10 +119,7 @@ DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,speedtestcustom.com
-DOMAIN-SUFFIX,wingmoney.com
-DOMAIN-SUFFIX,wingbank.com.kh
 DOMAIN-SUFFIX,mzstatic.com
-DOMAIN-SUFFIX,clevertap-prod.com
 DOMAIN-SUFFIX,asus.com
 #Kwai
 IP-CIDR,103.107.217.65/32,no-resolve
