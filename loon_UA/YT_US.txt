@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,googleapi.com
-DOMAIN-SUFFIX,googlsyndication.com
+DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,dns.google.com
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,google-analytics.com
