@@ -4,4 +4,6 @@ DOMAIN,msngr.com
 DOMAIN,edge-mqtt.facebook.com
 DOMAIN,rupload.facebook.com
 DOMAIN,chat-e2ee-mini.facebook.com
+DOMAIN,m.facebook.com
+DOMAIN,edge-mqtt-fallback.facebook.com:443
 IP-CIDR,31.13.67.33/32
