@@ -1,0 +1,2 @@
+[Script]
+http-request ^https?:\/\/(?:.*\.)?(facebook|fbcdn)\.com script-path=https://raw.githubusercontent.com/yourusername/yourrepo/main/ua-rewrite.js, requires-body=false, timeout=60, tag=Facebook-UA-Rewrite
