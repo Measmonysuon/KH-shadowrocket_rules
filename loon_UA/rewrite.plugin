@@ -1,11 +1,12 @@
-#!name=Facebook User-Agent Spoof Only
-#!desc=Spoof iPhone User-Agent for Facebook/fbcdn requests without rejecting
+#!name=Facebook UA Partial Spoof (iOS & iPhone model)
+#!desc=Fake only iOS version and iPhone model inside User-Agent for Facebook/fbcdn
 #!author=Measmony
-#!version=1.0.1
+#!version=1.0.2
 
 [Rewrite]
-# Spoof iPhone User-Agent on all Facebook and fbcdn.net domains
-^https?:\/\/(?:[a-zA-Z0-9_-]+\.)*(facebook\.com|fbcdn\.net) header-replace User-Agent Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1
+# Regex to match Facebook & fbcdn.net domains
+^https?:\/\/(?:[a-zA-Z0-9_-]+\.)*(facebook\.com|fbcdn\.net) header-replace-regex User-Agent (FBDV\/)[^;]+ ; : $1iPhone15,3;
+^https?:\/\/(?:[a-zA-Z0-9_-]+\.)*(facebook\.com|fbcdn\.net) header-replace-regex User-Agent (FBSV\/)[^;]+ ; : $118.5;
 
 [MITM]
 hostname = *.facebook.com,*.fbcdn.net
