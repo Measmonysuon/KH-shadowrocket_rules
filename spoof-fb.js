@@ -1,37 +1,19 @@
-// spoof-fb.js
-// Works with Loon Script Module - Spoof Device Info for Facebook API
+// fb-header-spoof.js
+// Spoof device model and iOS version only if FBLC=en_US is found in User-Agent
 
-let body = $request.body;
-let url = $request.url;
+let headers = $request.headers;
 
-try {
-    if (body) {
-        let json = JSON.parse(body);
+if (headers && headers["User-Agent"] && headers["User-Agent"].includes("FBLC/en_US")) {
+    let ua = headers["User-Agent"];
 
-        // Only spoof if targeting Facebook API domains
-        const shouldSpoof = [
-            "graph.facebook.com",
-            "api.facebook.com",
-            "b-api.facebook.com",
-            "b-graph.facebook.com",
-            "gateway.facebook.com"
-        ].some(domain => url.includes(domain));
+    // Replace FBDV (device)
+    ua = ua.replace(/FBDV\/[^;]+;/, "FBDV/iPhone15,3;");
 
-        if (shouldSpoof) {
-            // Spoof device model and iOS version only
-            json.device_model = "iPhone15,3";
-            json.ios_version = "16.3.1";
+    // Replace FBSV (iOS version)
+    ua = ua.replace(/FBSV\/[^;]+;/, "FBSV/16.3.1;");
 
-            // Optional: spoof locale if present
-            if (json.locale !== undefined) {
-                json.locale = "en_US";
-            }
-        }
-
-        body = JSON.stringify(json);
-    }
-} catch (err) {
-    console.log("Facebook spoof failed:", err);
+    // Return modified headers
+    $done({ headers: { ...headers, "User-Agent": ua } });
+} else {
+    $done({});
 }
-
-$done({ body });
