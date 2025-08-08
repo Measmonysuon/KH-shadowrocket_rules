@@ -13,6 +13,7 @@ DOMAIN,chat-e2ee.facebook.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN,fbsbx.com
 DOMAIN,cdn.fbsbx.com
+IP-CIDR,31.13.65.18/32,no-resolve
 DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,thinhnam.net.in
 DOMAIN-SUFFIX,vina24h.com
