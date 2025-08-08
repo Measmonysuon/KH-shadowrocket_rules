@@ -9,6 +9,7 @@ DOMAIN,b-graph.facebook.com
 DOMAIN,b-api.facebook.com
 DOMAIN,api.facebook.com
 DOMAIN,lithium.facebook.com
+DOMAIN,chat-e2ee.facebook.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN,fbsbx.com
 DOMAIN,cdn.fbsbx.com
