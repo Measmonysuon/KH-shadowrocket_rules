@@ -1,3 +1,7 @@
+USER-AGENT,"Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23E261 [FBAN/FBIOS;FBDV/iPhone13,4;FBMD/iPhone;FBSN/iOS;FBSV/26.4.2;FBSS/3;FBID/phone;FBLC/it_IT;FBOP/5]"
+USER-AGENT,"Mozilla/5.0 (iPhone; CPU iPhone OS 26_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23E261 [FBAN/FBIOS;FBDV/iPhone13,4;FBMD/iPhone;FBSN/iOS;FBSV/26.4.2;FBSS/3;FBID/phone;FBLC/it_Qaau_IT;FBOP/5]"
+
+
 USER-AGENT,"Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23D8133 [FBAN/FBIOS;FBDV/iPhone13,4;FBMD/iPhone;FBSN/iOS;FBSV/26.3.1;FBSS/3;FBID/phone;FBLC/it_Qaau_IT;FBOP/5]"
 USER-AGENT,"Mozilla/5.0 (iPhone; CPU iPhone OS 26_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23D8133 [FBAN/FBIOS;FBDV/iPhone13,4;FBMD/iPhone;FBSN/iOS;FBSV/26.3.1;FBSS/3;FBID/phone;FBLC/it_IT;FBOP/5]"
 
